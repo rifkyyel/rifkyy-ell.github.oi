@@ -1,2 +1,2 @@
-# rifkyyell.github.oi
+# rifkyyell.github.io
 Blog Tugas Kuliah
